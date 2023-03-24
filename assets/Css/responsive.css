@@ -13,6 +13,10 @@
         font-size: 55%;
     }
 
+    .btn {
+        text-align: center;
+    }
+
     .header {
         padding: 1.5rem 2rem;
     }
@@ -24,6 +28,9 @@
 }
 
 @media (max-width:768px) {
+    .btn {
+        text-align: center;
+    }
 
     #menu-btn {
         display: inline-block;
@@ -72,6 +79,9 @@
 }
 
 @media (max-width:450px) {
+    .btn {
+        text-align: center;
+    }
 
     html {
         font-size: 50%;

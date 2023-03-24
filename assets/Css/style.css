@@ -66,6 +66,7 @@ section {
     padding: .9rem 3rem;
     font-size: 1.7rem;
     color: #fff;
+    border-radius: 1rem;
     background: var(--main-color);
     cursor: pointer;
 }
@@ -378,7 +379,9 @@ section {
 }
 
 .review .box-container .box {
-    border: var(--border);
+
+    border: 2px solid red;
+    border-radius: 1rem;
     text-align: center;
     padding: 3rem 2rem;
 }
