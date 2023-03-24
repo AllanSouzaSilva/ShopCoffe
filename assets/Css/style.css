@@ -281,6 +281,8 @@ section {
     padding: 5rem;
     text-align: center;
     border: var(--border);
+    border-radius: 1rem;
+    box-shadow: 3px 3px 8px -3px rgb(167, 164, 164);
 }
 
 .menu .box-container .box img {
@@ -323,6 +325,8 @@ section {
     text-align: center;
     border: var(--border);
     padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 8px -3px rgb(167, 164, 164);
 }
 
 .products .box-container .box .icons a {
@@ -379,8 +383,7 @@ section {
 }
 
 .review .box-container .box {
-
-    border: 2px solid red;
+    cursor: pointer;
     border-radius: 1rem;
     text-align: center;
     padding: 3rem 2rem;
@@ -468,6 +471,8 @@ section {
 
 .blogs .box-container .box {
     border: var(--border);
+
+    border-radius: 1rem;
 }
 
 .blogs .box-container .box .image {
@@ -550,6 +555,7 @@ section {
     padding: .7rem 2rem;
     color: #fff;
     border: var(--border);
+    border-radius: 1rem;
     font-size: 2rem;
 }
 
