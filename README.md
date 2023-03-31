@@ -1,5 +1,8 @@
 # ShoppingCoffe
-Projeto baseado em uma cafeteria ou shopping aonde se trabalha vários tipo de café e grãos. Essa landing page foi criado junto ao canal do youtube. Informações detalhadas no rodapé. página completa com diversos recursos com html, css e javascript, o objetivo da criação foi para agregar valor ao meu portfólio. 
+<p align="center"><b>Status: Concluido ✅ </p>
+  
+  <p align="center"><b>Projeto baseado em uma cafeteria ou shopping aonde se trabalha vários tipo de café e grãos. Essa landing page foi criado junto ao canal do youtube. Informações detalhadas no rodapé. página completa com diversos recursos com html, css e javascript, o objetivo da criação foi para agregar valor ao meu portfólio.  </p>
+
 
 
 ## Screenshots
