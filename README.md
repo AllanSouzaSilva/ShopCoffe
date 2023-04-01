@@ -4,10 +4,19 @@
   <p align="center"><b>Projeto baseado em uma cafeteria ou shopping aonde se trabalha vários tipo de café e grãos. Essa landing page foi criado junto ao canal do youtube. Informações detalhadas no rodapé. página completa com diversos recursos com html, css e javascript, o objetivo da criação foi para agregar valor ao meu portfólio.  </p>
 
 
+<!-- imagens-->
+<h2 align="center">
+  <p>Web Shop coffe page</p>
+  <img width="70%" heigth="100%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png" style="max-width:100%;">
+</h2>
 
+<h2 align="center">
+  <p>Web Shop coffe - Mobile</p>
+  <img width="30%" heigth="100%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPageMobile.png" style="max-width:100%;">
+</h2>
 ## Screenshots Desktop
 
-![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png)
+![App Screenshot]()
     
     
 
