@@ -5,7 +5,13 @@
 
 
 
-## Screenshots
+## Screenshots Desktop
+
+![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png)
+    
+    
+
+## Screenshots Mobile
 
 ![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png)
 
