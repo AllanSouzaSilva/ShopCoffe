@@ -6,23 +6,14 @@
 
 <!-- imagens-->
 <h2 align="center">
-  <p>Web Shop coffe page</p>
-  <img width="70%" heigth="100%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png" style="max-width:100%;">
+<p>Screenshots Desktop</p>
+  <img width="70%" heigth="50%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png" style="max-width:90%;">
 </h2>
 
 <h2 align="center">
-  <p>Web Shop coffe - Mobile</p>
-  <img width="30%" heigth="100%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPageMobile.png" style="max-width:100%;">
+<p>Screenshots Mobile</p>
+  <img width="30%" heigth="80%" alt="Sitehome" title="Home page" src="https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPageMobile.png" style="max-width:90%;">
 </h2>
-## Screenshots Desktop
-
-![App Screenshot]()
-    
-    
-
-## Screenshots Mobile
-
-![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPageMobile.png)
 
 ## Documentação de cores
 
