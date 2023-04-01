@@ -13,7 +13,7 @@
 
 ## Screenshots Mobile
 
-![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPage.png)
+![App Screenshot](https://github.com/AllanSouzaSilva/ShopCoffe/blob/main/assets/img/LandingPageMobile.png)
 
 ## Documentação de cores
 
